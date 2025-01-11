@@ -1,0 +1,84 @@
+Terms and Conditions
+
+Welcome to the Flutter Hive Learning App ("the App"). By downloading, installing, or using the App, you agree to abide by these Terms and Conditions ("Terms"). Please read them carefully to understand your rights and obligations.
+
+1. Acceptance of Terms
+
+By accessing and using the App, you agree to comply with these Terms and any applicable laws and regulations. If you do not agree with any part of these Terms, you must not use the App.
+
+2. Use of the App
+
+2.1 Purpose:
+
+The App is designed to provide educational resources and tools for learning Flutter development.
+
+2.2 Non-Commercial Use:
+
+The App is intended for personal and educational use only. You may not use the App for commercial purposes without prior written consent.
+
+2.3 Prohibited Activities:
+
+You agree not to:
+
+Modify, reverse-engineer, or decompile the App.
+
+Use the App to distribute harmful or malicious software.
+
+Violate any applicable laws or regulations while using the App.
+
+Engage in activities that disrupt or interfere with the proper functioning of the App.
+
+3. Intellectual Property
+
+3.1 Ownership:
+
+All content, features, and functionality of the App, including but not limited to text, graphics, logos, and software, are the intellectual property of the App creators or its contributors.
+
+3.2 Open Source Codebase:
+
+The App’s codebase is open source and publicly accessible. Contributions are subject to the terms outlined in the project repository. You may use and modify the code in compliance with the open-source license.
+
+4. Disclaimer of Warranties
+
+4.1 As-Is Basis:
+
+The App is provided "as is" without warranties of any kind, either express or implied. We do not guarantee that the App will be error-free, uninterrupted, or meet your specific needs.
+
+4.2 Educational Content:
+
+While we strive to provide accurate and up-to-date learning resources, the App’s content is for informational purposes only. We do not guarantee the accuracy or completeness of the information provided.
+
+5. Limitation of Liability
+
+To the maximum extent permitted by law, the App creators and contributors shall not be liable for any direct, indirect, incidental, or consequential damages arising from your use or inability to use the App.
+
+6. Updates and Changes
+
+6.1 App Updates:
+
+We may release updates, patches, or new features to improve the App. These updates may modify or remove certain functionalities, and we are not obligated to maintain or support older versions of the App.
+
+6.2 Changes to Terms:
+
+We reserve the right to update these Terms at any time. Any changes will be communicated within the App, and continued use of the App constitutes acceptance of the updated Terms.
+
+7. Privacy
+
+Please review our Privacy Policy to understand how we handle your information. By using the App, you acknowledge and agree to the terms outlined in the Privacy Policy.
+
+8. Termination
+
+We reserve the right to terminate or suspend your access to the App at our sole discretion, without notice, if you violate these Terms or engage in activities that harm the App’s functionality or reputation.
+
+9. Governing Law
+
+These Terms shall be governed by and construed in accordance with the laws of [Insert Jurisdiction]. Any disputes arising under these Terms shall be subject to the exclusive jurisdiction of the courts in [Insert Jurisdiction].
+
+10. Contact Us
+
+If you have any questions, concerns, or suggestions regarding these Terms, please contact us at:
+
+deepaksharmatheboss@gmail.com
+
+By using the Flutter Hive Learning App, you agree to these Terms and Conditions. Thank you for choosing our App as your learning companion.
+

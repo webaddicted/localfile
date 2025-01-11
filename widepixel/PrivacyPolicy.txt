@@ -1,0 +1,40 @@
+Privacy Policy for Wallpaper App
+Effective Date: January 2025
+
+Your privacy is important to us. This Privacy Policy outlines the types of personal information we collect, how it is used, and the steps we take to protect your data. By using this app, you consent to the practices described in this policy.
+
+1. Information We Collect
+We do not collect any personal information such as name, email address, or phone number. The app does not ask for any personal data during use.
+
+However, the app may collect certain non-personal information, including:
+
+Usage Data: We may collect information about how you interact with the app, including features used, time spent, and interactions within the app. This data is used to improve the app’s performance and user experience.
+
+Device Information: The app may access your device’s storage to allow you to download and save wallpapers, but we do not store any of your personal data on our servers.
+
+2. Permissions Required
+To provide the best experience, our app may require certain permissions:
+
+Storage Permission: To allow you to download and set wallpapers as your lock or home screen.
+Internet Access: To access the wallpaper library and update your collection.
+These permissions are essential for the app’s functionality and do not involve collecting personal data.
+
+3. Third-Party Services
+We do not use any third-party services that collect personal data in our app. However, in case of any future integrations (e.g., analytics or advertising), we will update this policy and notify you.
+
+4. Data Security
+We prioritize the security of your data. While we do not collect personal data, we take all necessary measures to protect the non-personal information from unauthorized access, alteration, or disclosure.
+
+5. Children’s Privacy
+Our app is not intended for children under the age of 13. We do not knowingly collect any personal data from children. If we become aware of any data collected from children under 13, we will take steps to delete it.
+
+6. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. When we make changes, the updated policy will be posted in the app, and the effective date will be revised. We encourage you to review this Privacy Policy periodically for any updates.
+
+7. Contact Us
+If you have any questions about this Privacy Policy or our app, please contact us at:
+📧 [deepaksharmatheboss@gmail.com]
+
+By using our app, you agree to the collection and use of your information as described in this Privacy Policy.
+
+Thank you for using our app!
