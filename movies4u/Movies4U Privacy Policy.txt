@@ -1,65 +1,216 @@
-Privacy Policy
+# Privacy Policy
 
-Deepak Sharma built the Movies4U app as an Ad Supported app. This SERVICE is provided by Deepak Sharma at no cost and is intended for use as is.
+**App name:** Movies4U  
+**Developer:** Deepak Sharma  
+**Effective date:** June 20, 2026  
+**Contact:** deepaksharmatheboss@gmail.com
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Deepak Sharma built the Movies4U app as an **Ad Supported** app. This service is provided at no cost and is intended for use as is.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+This Privacy Policy explains how information is collected, used, and disclosed when you use Movies4U. By using the app, you agree to the practices described in this policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Movies4U unless otherwise defined in this Privacy Policy.
+---
 
-Information Collection and Use
+## 1. Overview
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Movies4U is movies details kind of app. you can check out all latest movies on this.. The information that I request will be retained on your device and is not collected by me in any way.
+Movies4U is a movie information app. It displays movie details, trailers, cast information, and related content. The app is free to use and supported by advertising.
 
-The app does use third-party services that may collect information used to identify you.
+We use third-party services (including Google Firebase and Google AdMob) that may collect information from your device to provide app functionality, analytics, crash reporting, and ads.
 
-Link to the privacy policy of third-party service providers used by the app
+---
 
-Google Play Services
-Google Analytics for Firebase
-Firebase Crashlytics
-Log Data
+## 2. Information We Collect
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+### 2.1 Information you provide
 
-Cookies
+The app does not require you to create an account. We do not ask for your name, email address, or phone number to use the core features of the app.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+If you contact us by email, we will use your email address only to respond to your message.
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+### 2.2 Information collected automatically
 
-Service Providers
+When you use Movies4U, we and our third-party partners may automatically collect information such as:
 
-I may employ third-party companies and individuals due to the following reasons:
+- Device type, model, and operating system version
+- App version and language settings
+- IP address (approximate location may be derived from IP)
+- Android Advertising ID (GAID) or similar advertising identifiers, where permitted
+- App usage events (for example, screens viewed and feature interactions)
+- Crash logs, diagnostics, and performance data
+- Network connection status
+- Ad interaction data (for example, impressions and clicks)
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Some of this information may be considered personal data under applicable privacy laws.
 
-Security
+### 2.3 Local storage on your device
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+The app may store preferences and settings locally on your device (for example, using SharedPreferences). This data stays on your device unless sent to a third-party service as described in this policy.
 
-Links to Other Sites
+---
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+## 3. How We Use Information
 
-Children’s Privacy
+We use collected information to:
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+- Provide and maintain Movies4U
+- Display movie content and app features
+- Show and measure advertisements
+- Analyze app usage and improve performance
+- Detect, prevent, and fix crashes and technical issues
+- Deliver remote configuration and feature updates
+- Comply with legal obligations
 
-Changes to This Privacy Policy
+---
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+## 4. Advertising and Google AdMob
 
-This policy is effective as of 2023-08-17
+Movies4U uses **Google AdMob** to display ads (including banner, native, interstitial, rewarded, and app-open formats).
 
-Contact Us
+AdMob and its partners may use your device information and advertising ID to:
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at deepaksharmatheboss@gmail.com.
+- Serve ads (personalized or non-personalized, depending on your consent)
+- Measure ad performance and prevent fraud
+- Limit how often you see the same ad
 
-This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator
-This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator
+For more information, see Google's Privacy Policy:  
+https://policies.google.com/privacy
+
+AdMob privacy information:  
+https://support.google.com/admob/answer/6128543
+
+---
+
+## 5. GDPR, EEA, UK, and Switzerland Users (Consent)
+
+If you are located in the **European Economic Area (EEA), United Kingdom, or Switzerland**, we request your consent before using certain data for personalized advertising, in line with applicable laws (including GDPR and the EU User Consent Policy).
+
+When required, the app shows a consent message (via Google's User Messaging Platform) where you can:
+
+- **Accept** personalized ads and related data uses
+- **Decline** or choose **Do not consent** (where offered), in which case we and our partners may show **non-personalized** or **limited** ads instead
+
+Your consent choices are stored on your device and respected for future ad requests until you change them or they expire under applicable rules.
+
+You may be able to review or change privacy choices through in-app settings or your device settings (where available).
+
+---
+
+## 6. Third-Party Services
+
+Movies4U uses the following third-party services that may collect information used to identify you or your device:
+
+| Service | Purpose |
+|--------|---------|
+| **Google Play Services** | Core Android services required by Google SDKs |
+| **Google AdMob** | Advertising |
+| **Google User Messaging Platform (UMP)** | Privacy consent management for ads |
+| **Firebase Analytics** | App usage analytics |
+| **Firebase Crashlytics** | Crash and error reporting |
+| **Firebase Remote Config** | Remote app configuration and feature flags |
+| **The Movie Database (TMDB)** | Movie metadata, images, and related content |
+| **YouTube** | Embedded video trailers (when you play them) |
+
+Each third party has its own privacy policy governing how they handle data:
+
+- Google / Firebase: https://policies.google.com/privacy  
+- TMDB: https://www.themoviedb.org/privacy-policy  
+- YouTube / Google: https://policies.google.com/privacy  
+
+We do not control third-party websites or services linked from the app. Please review their privacy policies separately.
+
+---
+
+## 7. Log Data
+
+If the app encounters an error, we may collect **Log Data** through third-party products such as Firebase Crashlytics. This may include:
+
+- Device IP address
+- Device name and operating system version
+- App configuration at the time of the error
+- Date and time of use
+- Other diagnostic statistics
+
+This data is used to diagnose and fix problems.
+
+---
+
+## 8. Cookies and Similar Technologies
+
+The app itself does not use browser cookies directly. However, third-party SDKs and web content (including ads and embedded web views) may use cookies, local storage, or similar technologies to collect information and improve their services.
+
+Where required by law, you will be asked for consent before such uses for advertising purposes.
+
+---
+
+## 9. Data Sharing
+
+We do not sell your personal information.
+
+We may share information with:
+
+- **Service providers** that help us operate the app (hosting, analytics, crash reporting, advertising)
+- **Legal authorities** when required by law or to protect our rights, users, or the public
+
+Third-party service providers are permitted to use information only to perform services on our behalf.
+
+---
+
+## 10. Data Retention
+
+We retain information only as long as needed for the purposes described in this policy, unless a longer retention period is required by law.
+
+Analytics, crash, and ad-related data retention is primarily controlled by the respective third-party providers according to their policies and your consent choices.
+
+---
+
+## 11. Security
+
+We use commercially reasonable measures to protect information. However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
+
+---
+
+## 12. Children's Privacy
+
+Movies4U is not directed at children under the age of **13**, and we do not knowingly collect personal information from children under 13.
+
+If you are a parent or guardian and believe your child has provided personal information, contact us at **deepaksharmatheboss@gmail.com** and we will take steps to delete such information.
+
+---
+
+## 13. Your Rights
+
+Depending on your location, you may have rights to:
+
+- Access, correct, or delete your personal information
+- Object to or restrict certain processing
+- Withdraw consent for personalized advertising
+- Lodge a complaint with a data protection authority
+
+To exercise these rights, contact us at **deepaksharmatheboss@gmail.com**.
+
+---
+
+## 14. International Data Transfers
+
+Your information may be processed in countries other than your own, including countries where our service providers operate. Where required, appropriate safeguards are applied by those providers.
+
+---
+
+## 15. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will post the updated policy at the same URL and update the **Effective date** at the top of this document.
+
+You are advised to review this page periodically for changes.
+
+---
+
+## 16. Contact Us
+
+If you have questions or suggestions about this Privacy Policy, contact:
+
+**Deepak Sharma**  
+Email: deepaksharmatheboss@gmail.com
+
+---
+
+*This policy was updated to reflect Movies4U's use of Google AdMob, Firebase services, GDPR consent messaging, and current app behavior.*
