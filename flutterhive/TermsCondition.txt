@@ -1,84 +1,315 @@
-Terms and Conditions
+# Terms and Conditions — Flutter Hive
 
-Welcome to the Flutter Hive Learning App ("the App"). By downloading, installing, or using the App, you agree to abide by these Terms and Conditions ("Terms"). Please read them carefully to understand your rights and obligations.
+**Effective date:** June 26, 2026  
+**Last updated:** June 26, 2026
 
-1. Acceptance of Terms
+**App name:** Flutter Hive (Flutter Tutorial)  
+**Developer:** WebAddicted  
+**Package name:** `com.webaddicted.flutterhive`  
+**Contact:** [deepaksharmatheboss@gmail.com](mailto:deepaksharmatheboss@gmail.com)
 
-By accessing and using the App, you agree to comply with these Terms and any applicable laws and regulations. If you do not agree with any part of these Terms, you must not use the App.
+---
 
-2. Use of the App
+## 1. Introduction
 
-2.1 Purpose:
+Welcome to **Flutter Hive** (“the App”, “we”, “us”, or “our”).
 
-The App is designed to provide educational resources and tools for learning Flutter development.
+These Terms and Conditions (“Terms”) govern your access to and use of the Flutter Hive mobile application. By downloading, installing, accessing, or using the App, you agree to be bound by these Terms.
 
-2.2 Non-Commercial Use:
+If you do not agree to these Terms, you must not use the App.
 
-The App is intended for personal and educational use only. You may not use the App for commercial purposes without prior written consent.
+---
 
-2.3 Prohibited Activities:
+## 2. About the App
 
-You agree not to:
+Flutter Hive is an **educational UI design and Flutter learning application**. The App provides sample screens and components for learning and reference, including but not limited to:
 
-Modify, reverse-engineer, or decompile the App.
+- Login, signup, and onboarding layouts  
+- Text, buttons, text fields, images, and progress indicators  
+- Lists, grids, navigation, tabs, and bottom bars  
+- Animations, dialogs, WebViews, maps, and other UI patterns  
+- Optional demo screens for permissions, local files, Firebase examples, and APIs  
 
-Use the App to distribute harmful or malicious software.
+**No account registration is required** to browse and use the main demo features of the App.
 
-Violate any applicable laws or regulations while using the App.
+Some screens are provided for **design demonstration only**. Unless clearly stated otherwise, demo input fields (such as login or signup forms) are not intended to create a live user account with us.
 
-Engage in activities that disrupt or interfere with the proper functioning of the App.
+---
 
-3. Intellectual Property
+## 3. Acceptance of Terms
 
-3.1 Ownership:
+By using the App, you confirm that:
 
-All content, features, and functionality of the App, including but not limited to text, graphics, logos, and software, are the intellectual property of the App creators or its contributors.
+- You have read and understood these Terms  
+- You agree to comply with these Terms and all applicable laws and regulations  
+- You have read and agree to our [Privacy Policy](https://raw.githubusercontent.com/webaddicted/localfile/refs/heads/main/flutterhive/PrivacyPolicy.txt)  
 
-3.2 Open Source Codebase:
+If you are using the App on behalf of a minor, you represent that you are the parent or legal guardian and accept these Terms on their behalf.
 
-The App’s codebase is open source and publicly accessible. Contributions are subject to the terms outlined in the project repository. You may use and modify the code in compliance with the open-source license.
+---
 
-4. Disclaimer of Warranties
+## 4. Eligibility
 
-4.1 As-Is Basis:
+You may use the App only if:
 
-The App is provided "as is" without warranties of any kind, either express or implied. We do not guarantee that the App will be error-free, uninterrupted, or meet your specific needs.
+- You are legally permitted to use the App in your country or region  
+- You are not prohibited from using the App under applicable law  
+- You use the App in a lawful and responsible manner  
 
-4.2 Educational Content:
+We may restrict access to the App where required by law or platform policy.
 
-While we strive to provide accurate and up-to-date learning resources, the App’s content is for informational purposes only. We do not guarantee the accuracy or completeness of the information provided.
+---
 
-5. Limitation of Liability
+## 5. License and Permitted Use
 
-To the maximum extent permitted by law, the App creators and contributors shall not be liable for any direct, indirect, incidental, or consequential damages arising from your use or inability to use the App.
+### 5.1 Limited license
 
-6. Updates and Changes
+Subject to these Terms, we grant you a limited, non-exclusive, non-transferable, revocable license to download and use the App for **personal and educational purposes**.
 
-6.1 App Updates:
+### 5.2 Permitted use
 
-We may release updates, patches, or new features to improve the App. These updates may modify or remove certain functionalities, and we are not obligated to maintain or support older versions of the App.
+You may use the App to:
 
-6.2 Changes to Terms:
+- Learn Flutter UI patterns and development concepts  
+- Browse, study, and interact with demo screens and components  
+- Use open-source code in accordance with the applicable project license, where provided  
 
-We reserve the right to update these Terms at any time. Any changes will be communicated within the App, and continued use of the App constitutes acceptance of the updated Terms.
+### 5.3 Non-commercial use
 
-7. Privacy
+The App is intended primarily for **personal and educational use**. You may not use the App for commercial purposes, resale, or unauthorized redistribution without our prior written consent, except as allowed by applicable open-source licenses.
 
-Please review our Privacy Policy to understand how we handle your information. By using the App, you acknowledge and agree to the terms outlined in the Privacy Policy.
+---
 
-8. Termination
+## 6. Prohibited Conduct
 
-We reserve the right to terminate or suspend your access to the App at our sole discretion, without notice, if you violate these Terms or engage in activities that harm the App’s functionality or reputation.
+You agree **not** to:
 
-9. Governing Law
+- Reverse engineer, decompile, disassemble, or attempt to derive the source code of the App except where permitted by law or open-source license  
+- Modify, adapt, or create derivative works of the App in violation of applicable license terms  
+- Use the App to distribute malware, spam, or harmful code  
+- Interfere with or disrupt the App, its servers, or connected services  
+- Circumvent security, advertising, or technical restrictions  
+- Use the App in any unlawful, fraudulent, or abusive manner  
+- Misrepresent demo screens as live production services that store or process real user accounts on our servers  
+- Violate the rights of others, including intellectual property or privacy rights  
+- Use automated systems to scrape, overload, or abuse the App or third-party services integrated within it  
 
-These Terms shall be governed by and construed in accordance with the laws of [Insert Jurisdiction]. Any disputes arising under these Terms shall be subject to the exclusive jurisdiction of the courts in [Insert Jurisdiction].
+We reserve the right to suspend or restrict access for conduct that violates these Terms or harms the App, users, or third parties.
 
-10. Contact Us
+---
 
-If you have any questions, concerns, or suggestions regarding these Terms, please contact us at:
+## 7. Demo Features and Permissions
 
-deepaksharmatheboss@gmail.com
+The App includes optional demo screens that may request device permissions such as camera, storage, location, notifications, or biometrics. These permissions are requested **only when you open the related demo feature** and choose to grant access.
 
-By using the Flutter Hive Learning App, you agree to these Terms and Conditions. Thank you for choosing our App as your learning companion.
+You understand and agree that:
 
+- Permission-based demos are provided for **learning and UI demonstration**  
+- **Contacts** and **SMS** demo screens display **sample data only** and are not intended to upload your real contacts or messages to our servers  
+- Revoking permissions may limit demo functionality  
+- Third-party SDKs (such as Firebase and AdMob) may still collect technical data as described in our Privacy Policy  
+
+You are responsible for any personal or sensitive information you choose to enter into demo screens on your own device.
+
+---
+
+## 8. Third-Party Services
+
+The App integrates third-party services that are governed by their own terms and policies, including but not limited to:
+
+| Service | Provider | Purpose |
+| --- | --- | --- |
+| Firebase Analytics | Google | Usage analytics |
+| Firebase Crashlytics | Google | Crash reporting |
+| Firebase Performance | Google | Performance monitoring |
+| Firebase Cloud Messaging | Google | Push notifications |
+| Firebase Remote Config | Google | Remote configuration |
+| Google Mobile Ads (AdMob) | Google | Advertising |
+| Google Maps | Google | Map demo functionality |
+
+Your use of these services may be subject to separate terms and privacy policies published by Google and other providers. We are not responsible for third-party services beyond our reasonable integration of them into the App.
+
+**Related links:**
+
+- [Privacy Policy](https://raw.githubusercontent.com/webaddicted/localfile/refs/heads/main/flutterhive/PrivacyPolicy.txt)  
+- [Google Privacy Policy](https://policies.google.com/privacy)  
+- [Google Terms of Service](https://policies.google.com/terms)  
+
+---
+
+## 9. Advertisements
+
+The App may display advertisements through **Google AdMob**. Ads may be personalized or non-personalized depending on your device settings and applicable law.
+
+By using the App, you acknowledge that:
+
+- Ads may appear within the App  
+- Ad content is provided by third parties  
+- We do not control all ad content, though we aim to comply with platform advertising policies  
+
+You may manage ad personalization through your device settings where available.
+
+---
+
+## 10. App Updates
+
+We may release updates, patches, bug fixes, or new features to improve the App, including through:
+
+- Google Play Store updates  
+- In-app update prompts  
+- Firebase Remote Config changes  
+
+Updates may add, modify, or remove features without prior notice. We are not obligated to maintain or support older versions of the App.
+
+Continued use of the App after an update constitutes acceptance of the updated version and, where applicable, updated Terms.
+
+---
+
+## 11. Intellectual Property
+
+### 11.1 Our rights
+
+Unless otherwise stated, the App and its content—including UI designs, branding, text, graphics, layout, and compiled software—are owned by WebAddicted or its licensors and are protected by applicable intellectual property laws.
+
+### 11.2 Open source
+
+Portions of the App may be open source and available under separate license terms in the project repository. Where an open-source license applies, it controls your use of that specific code to the extent it conflicts with these Terms.
+
+### 11.3 Restrictions
+
+Except as permitted by these Terms or applicable open-source licenses, you may not copy, reproduce, distribute, sell, rent, sublicense, or commercially exploit the App or its content without our prior written permission.
+
+### 11.4 Feedback
+
+If you submit suggestions, ideas, or feedback, you grant us a non-exclusive, royalty-free, worldwide license to use that feedback to improve the App without obligation to compensate you.
+
+---
+
+## 12. Educational Disclaimer
+
+The App is provided for **learning and demonstration purposes**.
+
+We do not guarantee that:
+
+- All UI examples represent production-ready or security-complete implementations  
+- Demo code should be copied into live apps without review and modification  
+- All information, sample APIs, or configurations are current, accurate, or fit for a particular commercial use  
+
+You are solely responsible for how you use code, designs, or concepts learned from the App in your own projects.
+
+---
+
+## 13. Disclaimer of Warranties
+
+To the fullest extent permitted by applicable law, the App is provided **“as is”** and **“as available”** without warranties of any kind, whether express or implied, including but not limited to:
+
+- Merchantability  
+- Fitness for a particular purpose  
+- Non-infringement  
+- Uninterrupted or error-free operation  
+- Accuracy or completeness of demo content  
+
+We do not warrant that the App will meet your requirements or that defects will be corrected.
+
+Some jurisdictions do not allow certain warranty exclusions, so some of the above may not apply to you.
+
+---
+
+## 14. Limitation of Liability
+
+To the maximum extent permitted by applicable law, WebAddicted, its developers, contributors, and affiliates shall **not** be liable for any:
+
+- Direct, indirect, incidental, special, consequential, or punitive damages  
+- Loss of profits, data, goodwill, or business opportunities  
+- Device damage or service interruption  
+- Damages arising from third-party services, advertisements, or external links  
+
+This limitation applies whether liability is based on contract, tort, negligence, strict liability, or any other legal theory, even if we have been advised of the possibility of such damages.
+
+In jurisdictions that do not allow limitation of liability, our liability shall be limited to the maximum extent permitted by law.
+
+---
+
+## 15. Indemnification
+
+You agree to indemnify, defend, and hold harmless WebAddicted, its developers, contributors, and affiliates from any claims, damages, losses, liabilities, costs, or expenses (including reasonable legal fees) arising from:
+
+- Your use or misuse of the App  
+- Your violation of these Terms  
+- Your violation of any law or third-party rights  
+- Content or information you submit through the App or via email  
+
+---
+
+## 16. Privacy
+
+Your use of the App is also governed by our [Privacy Policy](https://raw.githubusercontent.com/webaddicted/localfile/refs/heads/main/flutterhive/PrivacyPolicy.txt), which explains how information may be collected, used, shared, and deleted.
+
+By using the App, you acknowledge that you have read and understood the Privacy Policy.
+
+**Data deletion requests:**  
+https://raw.githubusercontent.com/webaddicted/localfile/refs/heads/main/flutterhive/DeleteData.txt
+
+---
+
+## 17. Termination
+
+We may suspend or terminate your access to the App at any time, with or without notice, if:
+
+- You violate these Terms  
+- We are required to do so by law or platform policy  
+- We discontinue the App or certain features  
+
+Upon termination, your right to use the App ends immediately. Sections that by their nature should survive termination (including disclaimers, limitation of liability, indemnification, and governing law) will continue to apply.
+
+You may stop using the App at any time by uninstalling it from your device.
+
+---
+
+## 18. Changes to These Terms
+
+We may update these Terms from time to time to reflect changes in the App, legal requirements, or business practices.
+
+When we update these Terms, we will revise the **“Last updated”** date at the top of this document. Material changes may also be communicated within the App where appropriate.
+
+Your continued use of the App after updated Terms are posted constitutes your acceptance of the revised Terms.
+
+---
+
+## 19. Governing Law and Disputes
+
+These Terms shall be governed by and construed in accordance with the laws of **India**, without regard to conflict of law principles.
+
+Any dispute arising out of or relating to these Terms or the App shall be subject to the exclusive jurisdiction of the courts located in **India**, unless applicable consumer protection law requires otherwise in your country of residence.
+
+---
+
+## 20. Severability
+
+If any provision of these Terms is found to be invalid, illegal, or unenforceable, the remaining provisions shall remain in full force and effect.
+
+---
+
+## 21. Entire Agreement
+
+These Terms, together with the [Privacy Policy](https://raw.githubusercontent.com/webaddicted/localfile/refs/heads/main/flutterhive/PrivacyPolicy.txt) and any applicable open-source licenses, constitute the entire agreement between you and us regarding the App and supersede prior understandings relating to the same subject matter.
+
+---
+
+## 22. Contact Us
+
+If you have questions, concerns, or suggestions regarding these Terms, please contact us:
+
+**Email:** deepaksharmatheboss@gmail.com  
+**App:** Flutter Hive (Flutter Tutorial)  
+**Developer:** WebAddicted
+
+**Related documents:**
+
+- Terms and Conditions (this document): https://raw.githubusercontent.com/webaddicted/localfile/refs/heads/main/flutterhive/TermsCondition.txt  
+- Privacy Policy: https://raw.githubusercontent.com/webaddicted/localfile/refs/heads/main/flutterhive/PrivacyPolicy.txt  
+- Data Deletion Request: https://raw.githubusercontent.com/webaddicted/localfile/refs/heads/main/flutterhive/DeleteData.txt  
+
+---
+
+*By using Flutter Hive, you agree to these Terms and Conditions. Thank you for using our App as your Flutter learning companion.*
