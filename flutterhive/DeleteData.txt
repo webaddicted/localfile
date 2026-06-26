@@ -1,0 +1,91 @@
+Flutter Hive — Data Deletion Request
+
+App name: Flutter Hive (Flutter Tutorial)
+Developer: WebAddicted
+Package: com.webaddicted.flutterhive
+
+================================================================================
+HOW TO REQUEST DATA DELETION
+================================================================================
+
+To request deletion of data associated with your use of Flutter Hive, email us at:
+
+  deepaksharmatheboss@gmail.com
+
+Subject line: Flutter Hive — Data Deletion Request
+
+Please include in your email:
+  1. A clear statement that you want your data deleted
+  2. Your device type (e.g. Android)
+  3. The approximate date you installed or last used the app
+
+We will respond within 30 days and confirm when your request has been processed.
+
+================================================================================
+ABOUT THIS APP
+================================================================================
+
+Flutter Hive is an educational UI design demo app. Users browse sample screens
+(login, buttons, text fields, lists, and more) to learn Flutter UI patterns.
+No account registration is required to use the app.
+
+================================================================================
+WHAT DATA MAY BE DELETED
+================================================================================
+
+Because the app does not require an account, data is mainly collected
+automatically by third-party services integrated for analytics, ads, crash
+reporting, push notifications, and app configuration:
+
+  • Device or other IDs (e.g. advertising ID, Firebase installation ID)
+  • App interactions and screen views (Firebase Analytics)
+  • Crash logs and diagnostics (Firebase Crashlytics, Firebase Performance)
+  • Push notification token (Firebase Cloud Messaging)
+  • Remote configuration data (Firebase Remote Config)
+  • Advertising-related data (Google AdMob)
+
+When you submit a deletion request, we will work with Google/Firebase and
+related providers to delete or anonymize data linked to your device where
+technically possible.
+
+================================================================================
+WHAT WE DO NOT COLLECT OR STORE ON OUR SERVERS
+================================================================================
+
+  • We do not require users to create an account
+  • We do not store your name, email, or phone number on our own servers
+  • Contact and SMS demo screens display sample data only — the app does not
+    upload your real contacts or SMS messages to our servers
+  • Camera, gallery, location, and similar features are used only for demo
+    screens when you grant permission; that data is not uploaded by us
+
+================================================================================
+DATA THAT MAY BE KEPT
+================================================================================
+
+  • Aggregated or anonymized analytics that cannot identify you
+  • Data we are required to retain for legal, security, or fraud-prevention
+    purposes
+  • Information held by third-party providers according to their own retention
+    policies until deletion is completed
+
+================================================================================
+RETENTION PERIOD
+================================================================================
+
+  • Deletion requests are processed within 30 days of receipt
+  • Backup or cached copies on third-party systems may take up to 90 additional
+    days to be fully removed
+
+================================================================================
+CONTACT
+================================================================================
+
+Email: deepaksharmatheboss@gmail.com
+
+Privacy policy:
+https://raw.githubusercontent.com/webaddicted/localfile/refs/heads/main/flutterhive/PrivacyPolicy.txt
+
+By using Flutter Hive, you acknowledge this data deletion process.
+
+Last updated: June 2026
