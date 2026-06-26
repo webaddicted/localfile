@@ -1,92 +1,278 @@
-Privacy Policy
+# Privacy Policy — Flutter Hive
 
-Thank you for using the Flutter Hive Learning App ("the App"). This privacy policy outlines in comprehensive detail how we handle your information and maintain a secure, private experience for our users. The App is specifically designed to function without collecting personal data, ensuring user anonymity and data privacy at all times.
+**Effective date:** June 26, 2026  
+**Last updated:** June 26, 2026
 
-1. Information We Collect
+**App name:** Flutter Hive (Flutter Tutorial)  
+**Developer:** WebAddicted  
+**Package name:** `com.webaddicted.flutterhive`  
+**Contact:** [deepaksharmatheboss@gmail.com](mailto:deepaksharmatheboss@gmail.com)
 
-The Flutter Hive Learning App does not collect any user information. This approach underlines our commitment to privacy by design. Below are details on various types of information typically associated with apps and how we address them:
+---
 
-1.1 Personal Information:
+## 1. Introduction
 
-The App does not require any personal details such as your name, email address, phone number, or account login. Users can access and utilize all features without creating or signing into an account.
+Thank you for using **Flutter Hive** (“the App”, “we”, “us”, or “our”).
 
-1.2 Usage Data:
+Flutter Hive is an **educational UI design and Flutter learning app**. Users can browse sample screens and components such as login pages, signup flows, text styles, text fields, buttons, lists, navigation patterns, animations, and other UI demos. **No account registration is required** to use the main features of the App.
 
-The App is engineered to operate offline, which means it does not track, monitor, or log user activities, interactions, or behaviors. No analytics or telemetry data is collected to ensure complete user anonymity.
+This Privacy Policy explains what information may be collected when you use the App, how that information is used, with whom it may be shared, and what choices you have. By installing or using Flutter Hive, you agree to the practices described in this policy.
 
-1.3 Third-Party Data:
+If you do not agree with this policy, please do not use the App.
 
-Unlike many other applications, this App does not integrate with external services that could require or involve sharing your data.
+---
 
-2. How We Use Your Information
+## 2. Summary
 
-Since no personal or usage data is collected, the Flutter Hive Learning App does not process or use any data from its users. The sole purpose of the App is to provide an educational tool with robust functionality while respecting and protecting user privacy.
+| Topic | Summary |
+| --- | --- |
+| Account required? | **No** — the App works without creating an account |
+| Personal info we store on our servers? | **No** — we do not operate a user database for the demo app |
+| Third-party data collection? | **Yes** — Google Firebase and Google AdMob may collect data automatically |
+| Device identifiers? | **Yes** — collected by Firebase and AdMob for analytics, ads, and app services |
+| Contacts / SMS uploaded? | **No** — demo screens use sample data only |
+| Data deletion requests | **Yes** — see [Section 12](#12-data-deletion) |
 
-3. Open Source Codebase
+---
 
-The App’s open source nature highlights our commitment to transparency. The codebase is publicly accessible, allowing developers, educators, and users to:
+## 3. Information We Collect
 
-Review the App’s architecture and ensure it aligns with our privacy policy.
+### 3.1 Information you provide voluntarily
 
-Contribute enhancements, bug fixes, or new features through community-driven efforts.
+The App is designed as a **UI demo and learning tool**. You are **not required** to provide personal information such as your name, email address, or phone number to browse demo screens.
 
-Verify that no hidden data collection methods are embedded in the App.
+Some demo screens (for example login, signup, or profile layouts) may display input fields for **design demonstration only**. Unless clearly stated otherwise in a specific live feature, information entered into those demo fields is **not collected or stored by us on our own servers**.
 
-All contributions to the codebase are managed in accordance with the terms of contribution outlined in the project repository.
+If you contact us by email, we will receive the information you choose to send (such as your email address and message content) so we can respond to you.
 
-4. Sharing Your Information
+### 3.2 Information collected automatically by third-party services
 
-As the Flutter Hive Learning App does not collect any user data, there is nothing to share, sell, or disclose to any third parties under any circumstances. This ensures that users can trust the App for a fully private learning experience.
+When you use the App, certain third-party services integrated into the App may automatically collect technical and usage information. This may include:
 
-5. Third-Party Tools and Services
+- **Device or other identifiers** (such as advertising ID, Firebase app instance ID, or installation ID)
+- **App activity** (such as screens viewed, app interactions, and general usage events)
+- **Crash logs and diagnostic data** (such as crash reports and performance metrics)
+- **Push notification token** (if notifications are enabled on your device)
+- **General device and app information** (such as device model, operating system version, app version, language, and network status)
 
-The App includes certain third-party libraries or tools to enhance functionality, such as coding widgets for hands-on learning. These integrations are implemented with care to ensure they:
+This data is primarily collected through:
 
-Operate locally without requiring internet connectivity or personal data sharing.
+| Service | Provider | Purpose |
+| --- | --- | --- |
+| Firebase Analytics | Google | Usage analytics and app improvement |
+| Firebase Crashlytics | Google | Crash reporting and stability |
+| Firebase Performance | Google | App performance monitoring |
+| Firebase Cloud Messaging (FCM) | Google | Push notifications |
+| Firebase Remote Config | Google | Remote app configuration (e.g. app update settings, feature flags) |
+| Google Mobile Ads (AdMob) | Google | Displaying advertisements |
 
-Adhere to privacy principles that align with the App’s philosophy.
+We do not sell your personal information.
 
-Users are encouraged to review the privacy policies of these tools directly if they have additional questions about third-party practices.
+### 3.3 Information from optional device permissions (demo features only)
 
-6. Security
+Some screens in the App demonstrate how Flutter handles device permissions. These permissions are requested **only when you open the related demo screen** and choose to grant access. Examples include:
 
-While the App does not handle user data, it is built with a strong focus on security to:
+| Permission | Used for |
+| --- | --- |
+| Camera | Camera / gallery demo screens |
+| Photos / media / storage | Image, video, audio, and document demo screens |
+| Location | Google Maps demo screens |
+| Notifications | Notification demo functionality |
+| Biometric | Fingerprint / local auth demo screens |
 
-Prevent vulnerabilities that could affect its performance.
+**Important:**
 
-Ensure a seamless and safe user experience.
+- **Contacts demo** and **SMS demo** screens display **sample (fake) data** for UI demonstration. The App does **not** read your real contacts or SMS messages for upload to our servers.
+- Data accessed through optional permissions is generally used **on your device** to show the demo UI and is **not transmitted to our servers**, unless a third-party SDK collects technical data as described in Section 3.2.
 
-We regularly review and update the App’s code to adhere to best practices in secure software development. However, users should be aware that no software system is completely immune to potential risks.
+---
 
-7. Children’s Privacy
+## 4. How We Use Information
 
-The App is designed to be educational and suitable for users of all ages, including children. Because it does not collect any data, children’s privacy is inherently safeguarded. For users under the age of 13, we recommend parental or guardian supervision to ensure they make the most of the learning experience.
+We and our third-party partners may use collected information for purposes including:
 
-8. Your Rights
+1. **App functionality** — operating, maintaining, and improving the App  
+2. **Analytics** — understanding how users interact with demo screens and features  
+3. **Advertising** — showing ads through Google AdMob  
+4. **Crash and performance monitoring** — identifying and fixing bugs and performance issues  
+5. **Push notifications** — delivering notifications where supported  
+6. **App updates and configuration** — managing in-app update prompts and remote settings  
+7. **Security and fraud prevention** — protecting the App and its services  
+8. **Legal compliance** — complying with applicable laws and responding to lawful requests  
 
-As a user of the Flutter Hive Learning App, you enjoy the following rights:
+Because the App does not require an account, data collected by third parties is generally associated with your device or app installation rather than a named user profile we maintain.
 
-Access Without Barriers: Use the App without providing any personal information.
+---
 
-Full Feature Availability: Explore and utilize every feature without restrictions tied to account creation or data submission.
+## 5. How We Share Information
 
-Privacy Assurance: Have confidence in the App’s commitment to your anonymity and data security.
+We do **not** sell your personal information.
 
-9. Changes to This Privacy Policy
+Information may be shared in the following situations:
 
-We are committed to maintaining transparency in our privacy practices. If updates to this privacy policy are necessary due to changes in the App or legal requirements, we will:
+### 5.1 Service providers (third parties)
 
-Clearly communicate the updates within the App.
+We use Google services that may process data on our behalf, including:
 
-Provide a revised effective date at the top of this document.
+- Google Firebase (Analytics, Crashlytics, Performance, Cloud Messaging, Remote Config)
+- Google AdMob
 
-Ensure that your continued use of the App signifies your acceptance of the updated policy.
+These providers process data according to their own privacy policies:
 
-10. Contact Us
+- [Google Privacy Policy](https://policies.google.com/privacy)
+- [Google Ads / AdMob](https://policies.google.com/technologies/ads)
+- [Firebase Privacy and Security](https://firebase.google.com/support/privacy)
 
-We value your feedback and are here to address any questions, concerns, or suggestions you may have regarding this privacy policy. Please reach out to us via:
+### 5.2 Legal requirements
 
-deepaksharmatheboss@gmail.com
+We may disclose information if required to do so by law, regulation, legal process, or governmental request, or when we believe disclosure is necessary to protect rights, safety, security, or the integrity of the App.
 
-By using the Flutter Hive Learning App, you confirm your understanding and acceptance of this privacy policy. We appreciate your trust and are dedicated to providing a secure, private, and engaging learning experience.
+### 5.3 Business transfers
 
+If we are involved in a merger, acquisition, or asset sale, user information handled by service providers may be transferred as part of that transaction, subject to applicable law.
+
+---
+
+## 6. Advertising
+
+The App may display advertisements served by **Google AdMob**. AdMob and its partners may use device identifiers and other information to deliver, measure, and personalize ads according to your device settings and applicable law.
+
+You may be able to limit ad personalization through your device settings, such as:
+
+- **Android:** Settings → Google → Ads → Opt out of Ads Personalization (wording may vary by device)
+
+For more information, see [Google’s advertising policies](https://policies.google.com/technologies/ads).
+
+---
+
+## 7. Data Retention
+
+Retention depends on the type of data and the third-party service involved.
+
+- **Data we receive by email** (support or deletion requests) is kept only as long as needed to handle your request and for reasonable record-keeping.
+- **Data collected by Google/Firebase/AdMob** is retained according to those providers’ policies and our configuration of those services.
+- When you submit a **data deletion request**, we will take reasonable steps to request deletion or anonymization of associated data. See [Section 12](#12-data-deletion).
+
+Aggregated or anonymized data that cannot reasonably identify you may be retained for analytics and service improvement.
+
+---
+
+## 8. Data Security
+
+We take reasonable measures to protect information handled through the App and our service providers. Data transmitted to third-party services is generally encrypted in transit using industry-standard protocols (such as HTTPS/TLS).
+
+However, no method of transmission or electronic storage is 100% secure. We cannot guarantee absolute security.
+
+---
+
+## 9. Children’s Privacy
+
+The App is intended for a general audience and for educational use. It does not require children to submit personal information to use the demo features.
+
+Because third-party services may collect device and usage information automatically, parents and guardians should supervise use by children where appropriate.
+
+If you believe a child has provided personal information to us directly by email, please contact us and we will take appropriate steps to delete that information.
+
+---
+
+## 10. Your Rights and Choices
+
+Depending on your location, you may have rights regarding your information, such as:
+
+- **Access** — request information about data associated with your use of the App  
+- **Deletion** — request deletion of data where technically possible  
+- **Opt-out of personalized ads** — through device settings  
+- **Withdraw permissions** — through your device settings for camera, location, storage, etc.  
+
+### 10.1 Permission controls
+
+You can revoke app permissions at any time in your device settings. Some demo screens may not function fully without the relevant permission.
+
+### 10.2 Analytics and ads
+
+Third-party collection is largely controlled by SDK configuration and your device settings. Contact us if you need help submitting a deletion request.
+
+---
+
+## 11. International Users
+
+The App may be used internationally. Information collected by our third-party providers may be processed in countries other than your own, including countries where data protection laws may differ from those in your jurisdiction.
+
+By using the App, you consent to such processing in accordance with this Privacy Policy and applicable provider terms.
+
+---
+
+## 12. Data Deletion
+
+You may request deletion of data associated with your use of Flutter Hive.
+
+**How to request deletion:**
+
+1. Email **deepaksharmatheboss@gmail.com**  
+2. Use subject line: **Flutter Hive — Data Deletion Request**  
+3. Include your device type and approximate date of app use  
+
+**Full deletion instructions:**
+
+https://raw.githubusercontent.com/webaddicted/localfile/refs/heads/main/flutterhive/DeleteData.txt
+
+We aim to respond within **30 days**. Third-party backup systems may take additional time to fully remove data.
+
+---
+
+## 13. Open Source Transparency
+
+Flutter Hive is built with transparency in mind. Parts of the project may be open source, allowing developers and users to review how the App is structured.
+
+Open source access does not change the fact that third-party SDKs (Firebase, AdMob, etc.) may still collect data as described in this policy when the App is run on a device.
+
+---
+
+## 14. Third-Party Links and Web Content
+
+The App may include demo WebView screens or links to external websites (for example documentation or sample URLs). We are not responsible for the privacy practices of third-party websites or services. Please review their privacy policies separately.
+
+---
+
+## 15. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in the App, our practices, legal requirements, or third-party services.
+
+When we update this policy, we will revise the **“Last updated”** date at the top of this document. Material changes may also be communicated within the App where appropriate.
+
+Your continued use of the App after an update means you accept the revised policy.
+
+---
+
+## 16. Contact Us
+
+If you have questions, concerns, or requests regarding this Privacy Policy or your data, contact us at:
+
+**Email:** deepaksharmatheboss@gmail.com  
+**App:** Flutter Hive (Flutter Tutorial)  
+**Developer:** WebAddicted
+
+**Related documents:**
+
+- Privacy Policy (this document): https://raw.githubusercontent.com/webaddicted/localfile/refs/heads/main/flutterhive/PrivacyPolicy.txt  
+- Data Deletion Request: https://raw.githubusercontent.com/webaddicted/localfile/refs/heads/main/flutterhive/DeleteData.txt  
+- Terms and Conditions: https://raw.githubusercontent.com/webaddicted/localfile/refs/heads/main/flutterhive/TermsCondition.txt  
+
+---
+
+## 17. Google Play Data Safety Disclosure
+
+In accordance with Google Play requirements, we disclose that the App may collect and share certain data types through integrated SDKs, including but not limited to:
+
+- **Device or other IDs**
+- **App interactions**
+- **Crash logs**
+- **Diagnostics / performance data**
+
+Optional device permissions may be used for demo functionality as described in Section 3.3. The App does not require users to create an account.
+
+This disclosure is intended to align with our Google Play Data safety form and this Privacy Policy.
+
+---
+
+*By using Flutter Hive, you acknowledge that you have read and understood this Privacy Policy.*
